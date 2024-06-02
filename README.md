@@ -16,3 +16,17 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aaron-Zielstorff)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2476-8415)
+
+## 🚀 Recent Projects
+
+- [BaSyx AAS Web UI](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui) - A Web Frontend to visualize Digital Twins (AAS)  
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-applications?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-applications?style=social)
+  [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-gui)](https://hub.docker.com/r/eclipsebasyx/aas-gui)
+
+- [BaSyx Java Server SDK](https://github.com/eclipse-basyx/basyx-java-server-sdk) - An open-source middleware for implementing Digital Twins (AAS)  
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-server-sdk?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-java-server-sdk?style=social)
+  [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-server)](https://hub.docker.com/r/eclipsebasyx/aas-environment)
+  
+- [OPC2AAS](https://github.com/aaronzi/opc2aas) - An open-source tool to translate OPC UA data models to Asset Administration Shells

@@ -19,7 +19,7 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
 
 ## 🚀 Recent Projects
 
-- [BaSyx AAS Web UI](https://github.com/eclipse-basyx/basyx-applications/tree/main/aas-gui) - A Web Frontend to visualize Digital Twins (AAS)  
+- [BaSyx AAS Web UI](https://github.com/eclipse-basyx/basyx-aas-web-ui) - A Web Frontend to visualize Digital Twins (AAS)  
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-applications?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-applications?style=social)
   [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-gui)](https://hub.docker.com/r/eclipsebasyx/aas-gui)

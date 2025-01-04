@@ -20,8 +20,8 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
 ## 🚀 Recent Projects
 
 - [BaSyx AAS Web UI](https://github.com/eclipse-basyx/basyx-aas-web-ui) - A Web Frontend to visualize Digital Twins (AAS)  
-  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-applications?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-applications?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-aas-web-ui?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-aas-web-ui?style=social)
   [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-gui)](https://hub.docker.com/r/eclipsebasyx/aas-gui)
 
 - [BaSyx Java Server SDK](https://github.com/eclipse-basyx/basyx-java-server-sdk) - An open-source middleware for implementing Digital Twins (AAS)  
@@ -29,7 +29,9 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-java-server-sdk?style=social)
   [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-server)](https://hub.docker.com/r/eclipsebasyx/aas-environment)
   
-- [OPC2AAS](https://github.com/aaronzi/opc2aas) - An open-source tool to translate OPC UA data models to Asset Administration Shells
+- [OPC2AAS](https://github.com/aaronzi/opc2aas) - An open-source tool to translate OPC UA data models to Asset Administration Shells (AAS)  
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-applications?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-applications?style=social)
 
 ## 📫 How to Reach Me
 

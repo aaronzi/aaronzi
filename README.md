@@ -28,6 +28,11 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-server-sdk?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-java-server-sdk?style=social)
   [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-server)](https://hub.docker.com/r/eclipsebasyx/aas-environment)
+
+- [BaSyx TypeScript SDK](https://github.com/eclipse-basyx/basyx-typescript-sdk) - An open-source SDK for developing Digital Twin (AAS) Applications  
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-typescript-sdk?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-typescript-sdk?style=social)
+  [![NPM Downloads](https://img.shields.io/npm/dw/basyx-typescript-sdk)](https://www.npmjs.com/package/basyx-typescript-sdk)
   
 - [OPC2AAS](https://github.com/aaronzi/opc2aas) - An open-source tool to translate OPC UA data models to Asset Administration Shells (AAS)  
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-applications?style=social)

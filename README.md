@@ -42,7 +42,3 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
 
 [![Email](https://img.shields.io/badge/Email-aaron.zielstorff%40iese.fraunhofer.de-blue?style=flat&logo=gmail)](mailto:aaron.zielstorff@iese.fraunhofer.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Zielstorff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aaron-zielstorff/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronzi&show_icons=true" />
-</p>

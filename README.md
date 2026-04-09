@@ -24,6 +24,10 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-aas-web-ui?style=social)
   [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-gui)](https://hub.docker.com/r/eclipsebasyx/aas-gui)
 
+- [BaSyx Go Components](https://github.com/eclipse-basyx/basyx-java-server-sdk) - Open Source API Services for the Asset Administration Shell
+  ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-go-components?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-go-components?style=social)
+
 - [BaSyx Java Server SDK](https://github.com/eclipse-basyx/basyx-java-server-sdk) - An open-source middleware for implementing Digital Twins (AAS)  
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-server-sdk?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-java-server-sdk?style=social)

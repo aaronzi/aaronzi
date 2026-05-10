@@ -27,6 +27,7 @@ I'm currently a scientist at the Fraunhofer Institute for Experimental Software 
 - [BaSyx Go Components](https://github.com/eclipse-basyx/basyx-java-server-sdk) - Open Source API Services for the Asset Administration Shell  
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-go-components?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-go-components?style=social)
+  [![Docker Pulls](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocker-stats.basyx.org%2Fgo.json)](https://hub.docker.com/u/eclipsebasyx?page=1&search=-go)
 
 - [BaSyx Java Server SDK](https://github.com/eclipse-basyx/basyx-java-server-sdk) - An open-source middleware for implementing Digital Twins (AAS)  
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-java-server-sdk?style=social)
